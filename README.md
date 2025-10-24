@@ -11,7 +11,9 @@
 
 **Gender demographics (60% Male, 40% Female)**
 
-Detailed attrition breakdown by department and gender
+**Detailed attrition breakdown by department and gender**
+
+<img width="1855" height="660" alt="Screenshot 2025-10-24 144626" src="https://github.com/user-attachments/assets/057f654c-de36-4ed2-a54a-a167a93e61fe" />
 
 ***🖥️ Dashboard Components - Detailed description of all 6 visualizations:***
 
@@ -27,13 +29,13 @@ Detailed attrition breakdown by department and gender
 
 Interactive summary table
 
-###💡 Key Insights - Data-driven findings from your dashboard analysis
+### 💡 Key Insights - Data-driven findings from your dashboard analysis
 
-###📋 Business Recommendations - Actionable strategies for HR teams
+### 📋 Business Recommendations - Actionable strategies for HR teams
 
-###🚀 How to Use - Step-by-step user guide for the dashboard
+### 🚀 How to Use - Step-by-step user guide for the dashboard
 
-###🔄 Future Enhancements - Suggested improvements and expansions
+### 🔄 Future Enhancements - Suggested improvements and expansions
 
 ###🛠️ Technical Requirements - Software and system specifications
 
